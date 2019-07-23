@@ -30,6 +30,7 @@ body {
 }
 
 #links {
+  border-style: solid;
   background-color: #Febc1f;
   height: 50px;
   text-align: center;
