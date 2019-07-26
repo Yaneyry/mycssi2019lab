@@ -1,0 +1,6 @@
+def findSum(x):
+  sum = 0
+  for i in range(x):
+    sum = sum + 1
+    return sum
+    print(findSum(10))SS
